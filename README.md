@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 iMobilize is a comprehensive mobile/web application designed to eliminate barriers to social and civic activism. The platform provides educational resources, location-specific legal guides, and tools for coordination and communication while supporting UN SDG goals 16 ("Peace, Justice, and Strong Institutions") and 10 ("Reduced Inequalities").
 
@@ -17,7 +17,7 @@ iMobilize is a comprehensive mobile/web application designed to eliminate barrie
 
 ---
 
-## 🏗️ My Key Contributions
+## My Key Contributions
 
 ### 1. System Architecture Design
 - **Designed dual-database architecture** combining PostgreSQL (relational data) and MongoDB (document storage)
@@ -90,7 +90,7 @@ cd iMobilize-js && npm start  # Frontend
 
 ---
 
-## 🛠️ Technical Highlights
+## Technical Highlights
 
 ### Frontend Architecture
 - **React Native** cross-platform mobile development
@@ -123,7 +123,7 @@ CREATE TABLE events (
 
 ---
 
-## 📊 Project Impact & Metrics
+## Project Impact & Metrics
 
 - **Database Performance:** Optimized queries reduced response time by 40%
 - **Security:** Zero security vulnerabilities in production deployment
@@ -133,7 +133,7 @@ CREATE TABLE events (
 
 ---
 
-## 🔧 Technologies & Tools Used
+## Technologies & Tools Used
 
 **Frontend:**
 - React Native, React Navigation
@@ -165,7 +165,7 @@ CREATE TABLE events (
 
 ---
 
-## 📁 Code Samples Included
+## Code Samples Included
 
 This repository contains:
 - **`/backend-samples/`** - Key API endpoints and middleware I developed
@@ -176,7 +176,7 @@ This repository contains:
 
 ---
 
-## 🎓 What I Learned
+## What I Learned
 
 - **Full-stack architecture** for complex social platforms
 - **Database design patterns** for mixed relational/document storage
@@ -187,7 +187,7 @@ This repository contains:
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 Ideas I proposed for future development:
 - Microservices migration for better scalability
@@ -199,7 +199,7 @@ Ideas I proposed for future development:
 
 ---
 
-## 📞 Contact
+## Contact
 
 **Carver Rasmussen**  
 Email: carver.rasmussen@gmail.com  
