@@ -12,7 +12,7 @@
 
 iMobilize is a comprehensive mobile/web application designed to eliminate barriers to social and civic activism. The platform provides educational resources, location-specific legal guides, and tools for coordination and communication while supporting UN SDG goals 16 ("Peace, Justice, and Strong Institutions") and 10 ("Reduced Inequalities").
 
-**Live Demo:** [Link if available]  
+**Live Demo:** https://peaceful-brigadeiros-c5bbb4.netlify.app/  
 **Tech Stack:** React Native, Node.js, Express.js, PostgreSQL, MongoDB, Signal Protocol
 
 ---
@@ -204,7 +204,7 @@ Ideas I proposed for future development:
 **Carver Rasmussen**  
 Email: carver.rasmussen@gmail.com  
 GitHub: [@MegaDeadCowboy](https://github.com/MegaDeadCowboy)  
-LinkedIn: [Your LinkedIn]
+LinkedIn: https://www.linkedin.com/in/carver-rasmussen-9180b6303/
 
 ---
 
