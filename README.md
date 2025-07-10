@@ -3,7 +3,7 @@
 
 > **Full Project Repository:** [Original iMobilize Repo](https://github.com/Huynhben22/iMobilize)  
 > **Role:** Full-Stack Developer & System Architect  
-> **Duration:** January 2024 - December 2024  
+> **Duration:** March 2025 - June 2025  
 > **Team:** 4 developers  
 
 ---
